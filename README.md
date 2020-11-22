@@ -18,7 +18,7 @@ A collection of all our favorite sitcom :tv: show's Thanksgivings episodes.  We 
   
 ### Episodes
 
-- [Harvest Festival](https://www.imdb.com/title/tt1523800/) - Season 3 | Episode 7
+- [Harvest Festival](https://www.imdb.com/title/tt1636243/) - Season 3 | Episode 7
 
 ## The Office (US)
 >No Thankgiving episodes, but include fall episodes
