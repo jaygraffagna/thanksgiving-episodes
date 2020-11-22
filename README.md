@@ -11,7 +11,7 @@ A collection of all our favorite sitcom :tv: show's Thanksgivings episodes.  We 
 - [How I Met Your Mother](#how-i-met-your-mother)
 
 ## Parks and Recreation
->No Thankgiving episodes
+>No Thankgiving episodes, but include fall episodes
 
 - Peacock
 - Amazon :dollar:
@@ -21,7 +21,7 @@ A collection of all our favorite sitcom :tv: show's Thanksgivings episodes.  We 
 - [Harvest Festival](https://www.imdb.com/title/tt1523800/) - Season 3 | Episode 7
 
 ## The Office (US)
->No Thankgiving episodes
+>No Thankgiving episodes, but include fall episodes
 
 - Netflix
 - Peacock
